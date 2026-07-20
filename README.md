@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer · AI/SaaS Web Apps · API Integration</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=180&section=header&text=&fontSize=0" />
 </p>
 
 <p align="center">
@@ -15,21 +15,34 @@
   <a href="https://instagram.com/the_genz_developer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:palanghan8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=PalAnghan&label=Profile%20Views&color=238636&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/PalAnghan?label=Followers&style=flat-square&color=238636" />
 </p>
 
 ---
 
-## About
+## My Journey
 
-MERN Stack Developer and final-year BCA student, focused on building full-stack web applications and integrating AI capabilities into practical, production-ready products. Experienced in developing admin dashboards, authentication systems, API integrations, and PDF/report generation tools. Also working as an independent freelance developer, delivering websites and web applications for startups and small businesses.
+<img align="right" width="240" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1500&color=8B949E&center=false&vCenter=false&width=240&height=180&lines=2023%3A+Started+BCA;Learned+MERN+from+scratch;Shipped+first+deployed+app;Started+freelancing;Now%3A+learning+AI+%2F+ML;Next%3A+internship" />
 
-| | |
-|---|---|
-| **Role** | MERN Stack Developer · AI SaaS Web App & API Integration |
-| **Education** | BCA, Final Year — ITM SLS Baroda University (2023–2026) |
-| **Location** | Surat, Gujarat, India |
-| **Freelance** | Independent developer, brand: *GenZ Developer* |
-| **Availability** | Open to internships, entry-level roles, and freelance projects |
+I started my BCA in 2023 with no real coding background — just curiosity. Since then I've taught myself the MERN stack from the ground up, shipped a fully deployed product, taken on freelance clients as an independent developer, and started building AI-integrated tools instead of just following tutorials.
+
+**2023 — The Start**
+Began BCA at ITM SLS Baroda University. First lines of code, first "why isn't this working" nights.
+
+**2024 — Foundations**
+Learned JavaScript, then React, Node.js, Express, and MongoDB. Built small practice projects to actually understand the stack, not just copy it.
+
+**2025 — Shipping Real Things**
+Built and deployed **UrbanNest**, a full hostel booking platform — my first project that real users could actually open and use, not just a localhost demo.
+
+**2025 — Going Independent**
+Started freelancing under the brand **GenZ Developer**, taking on real client work and learning what it means to ship on someone else's deadline, not just my own.
+
+**2026 — AI Era**
+Started building AI-integrated products — **NutriVision** analyzes food photos with the Gemini Vision API. Also began a structured AI/ML developer program, learning Python fundamentals and working toward data analysis and ML roles.
+
+**Now**
+Final year of BCA, actively looking for an internship or first full-time role — while continuing to freelance and build in public.
 
 ---
 
@@ -48,16 +61,24 @@ MERN Stack Developer and final-year BCA student, focused on building full-stack 
 
 ## Currently Learning — AI / Machine Learning
 
-Working through a structured AI/ML developer program alongside self-study, with a near-term goal of a data analysis internship.
+<p align="center">
+  <img src="https://progress-bar.dev/35/?title=Python%20Fundamentals&width=500&color=238636" />
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/15/?title=Data%20Handling%20(Pandas%2FNumPy)&width=500&color=1f6feb" />
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/0/?title=Machine%20Learning%20Fundamentals&width=500&color=8b949e" />
+</p>
 
 | Stage | Topic | Status |
 |---|---|---|
-| 1 | Python Fundamentals | ✅ Done |
-| 2 | Loops & Functions | ✅ Done |
-| 3 | Data Handling (Pandas / NumPy) | 🔄 In Progress |
-| 4 | Data Analysis & Visualization | ⏳ Upcoming |
-| 5 | Machine Learning Fundamentals | ⏳ Upcoming |
-| 6 | Applied AI/ML Projects | ⏳ Upcoming |
+| 1 | Python Fundamentals | Done |
+| 2 | Loops & Functions | Done |
+| 3 | Data Handling (Pandas / NumPy) | In Progress |
+| 4 | Data Analysis & Visualization | Upcoming |
+| 5 | Machine Learning Fundamentals | Upcoming |
+| 6 | Applied AI/ML Projects | Upcoming |
 
 *Enrolled in a full AI/ML developer institute program (~16–18 months), studying in parallel and applying for data analysis internships along the way.*
 
@@ -65,89 +86,16 @@ Working through a structured AI/ML developer program alongside self-study, with 
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**NutriVision — AI Food Analyzer**
-Full-stack app that analyzes food photos using the Gemini Vision API, returning calorie count, protein content, health score, and age-based recommendations.
-`Python` `FastAPI` `React` `Gemini Vision`
-
-</td>
-<td width="50%" valign="top">
-
-**UrbanNest — Hostel Booking Platform**
-Deployed full-stack hostel booking platform built end-to-end with the MERN stack.
-`MongoDB` `Express.js` `React` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Internship & Project Management Portal**
-Final-year project — a MERN-based portal to manage internships and student project workflows.
-`MongoDB` `Express.js` `React` `Node.js`
-
-</td>
-<td width="50%" valign="top">
-
-**Career-Bot**
-Career guidance / automation bot.
-`JavaScript`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/PalAnghan/Nutrivision-AI-Food-Nutrition-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PalAnghan&repo=Nutrivision-AI-Food-Nutrition-Analyzer&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/PalAnghan/internship-project-management-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PalAnghan&repo=internship-project-management-portal&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/PalAnghan/hostel-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PalAnghan&repo=hostel-website&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/PalAnghan/career-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PalAnghan&repo=career-bot&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| **[NutriVision — AI Food Analyzer](https://github.com/PalAnghan/Nutrivision-AI-Food-Nutrition-Analyzer)** | Analyzes food photos via the Gemini Vision API — returns calories, protein, health score, and age-based recommendations | Python · FastAPI · React · Gemini Vision |
+| **[UrbanNest — Hostel Booking Platform](https://github.com/PalAnghan/hostel-website)** | Deployed full-stack hostel booking platform | MongoDB · Express.js · React · Node.js |
+| **[Internship & Project Management Portal](https://github.com/PalAnghan/internship-project-management-portal)** | Final-year project — portal to manage internships and student project workflows | MongoDB · Express.js · React · Node.js |
+| **[Career-Bot](https://github.com/PalAnghan/career-bot)** | Career guidance / automation bot | JavaScript |
 
 ### Other Repositories
 
 `job-tracker-mern` · `kawaii-marksheet-app` · `morning-buddy-pro` · `weather-app` · `clock.com` · `neet-practice-app` · `rudrabyte-frontend-internship-2025` · `AI-ML-Red-White-ExtraClass` · `AI-ML-RedandWhite` · `Python-Fundamental-Booster-Red-White` · `Logic-Box-Red-and-White-Python` · `C-Language`
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PalAnghan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=PalAnghan&theme=github-dark&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalAnghan&layout=compact&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-trophies.vercel.app/?username=PalAnghan&theme=darkhub&no-frame=true&row=2&column=3" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PalAnghan&theme=github-compact&hide_border=true" width="98%" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PalAnghan/PalAnghan/output/github-contribution-grid-snake-dark.svg" width="98%" />
-</p>
-
-> Requires the GitHub Action workflow (see setup notes) to generate automatically.
 
 ---
 
