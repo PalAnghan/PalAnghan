@@ -19,6 +19,14 @@
 </p>
 
 <p align="center">
+  <img src="assets/pacman-loading.svg" width="100%" alt="pacman eating dots" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PalAnghan/PalAnghan/output/snake.svg" width="100%" alt="snake eating contribution graph" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=3&section=header" width="100%" />
 </p>
 
