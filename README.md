@@ -170,9 +170,7 @@ A JavaScript-based bot project focused on career guidance/automation.
   </a>
 </p>
 
-<p align="center">
-  <em>Freelancing as <b>GenZ Developer</b> — building websites & apps for startups and small businesses.</em>
-</p>
+
 
 ---
 
