@@ -1,0 +1,19 @@
+<svg width="640" height="210" viewBox="0 0 640 210" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="640" height="210" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="22" fill="#c9d1d9" font-family="JetBrains Mono, monospace" font-size="13">Python Fundamentals</text>
+<text x="616" y="22" fill="#238636" font-family="JetBrains Mono, monospace" font-size="12" text-anchor="end">100%</text>
+<rect x="24" y="30" width="592" height="14" rx="7" fill="#161b22"/>
+<rect x="24" y="30" width="0" height="14" rx="7" fill="#238636"><animate attributeName="width" values="0;592.0;592.0" keyTimes="0;0.5;1" dur="2.5s" fill="freeze" begin="0.2s"/></rect>
+<text x="24" y="62" fill="#c9d1d9" font-family="JetBrains Mono, monospace" font-size="13">Loops & Functions</text>
+<text x="616" y="62" fill="#238636" font-family="JetBrains Mono, monospace" font-size="12" text-anchor="end">100%</text>
+<rect x="24" y="70" width="592" height="14" rx="7" fill="#161b22"/>
+<rect x="24" y="70" width="0" height="14" rx="7" fill="#238636"><animate attributeName="width" values="0;592.0;592.0" keyTimes="0;0.5;1" dur="2.5s" fill="freeze" begin="0.2s"/></rect>
+<text x="24" y="102" fill="#c9d1d9" font-family="JetBrains Mono, monospace" font-size="13">Data Handling (Pandas / NumPy)</text>
+<text x="616" y="102" fill="#1f6feb" font-family="JetBrains Mono, monospace" font-size="12" text-anchor="end">45%</text>
+<rect x="24" y="110" width="592" height="14" rx="7" fill="#161b22"/>
+<rect x="24" y="110" width="0" height="14" rx="7" fill="#1f6feb"><animate attributeName="width" values="0;266.4;266.4" keyTimes="0;0.5;1" dur="2.5s" fill="freeze" begin="0.2s"/></rect>
+<text x="24" y="142" fill="#c9d1d9" font-family="JetBrains Mono, monospace" font-size="13">Machine Learning Fundamentals</text>
+<text x="616" y="142" fill="#6e7681" font-family="JetBrains Mono, monospace" font-size="12" text-anchor="end">5%</text>
+<rect x="24" y="150" width="592" height="14" rx="7" fill="#161b22"/>
+<rect x="24" y="150" width="0" height="14" rx="7" fill="#6e7681"><animate attributeName="width" values="0;29.6;29.6" keyTimes="0;0.5;1" dur="2.5s" fill="freeze" begin="0.2s"/></rect>
+</svg>
