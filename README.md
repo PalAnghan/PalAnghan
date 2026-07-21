@@ -19,6 +19,10 @@
 
 <p align="center"><sub>👆 a small code editor I built by hand for this profile — watch it type live on GitHub</sub></p>
 
+<p align="center">
+  <img src="assets/tech-marquee.svg" width="100%" alt="scrolling tech stack" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -57,14 +61,9 @@ Final year of BCA, actively looking for an internship or first full-time role �
 
 ## 🤖 Currently Learning — AI / Machine Learning
 
-```diff
-+ [DONE]        Python Fundamentals
-+ [DONE]        Loops & Functions
-~ [IN PROGRESS] Data Handling — Pandas / NumPy
-- [UPCOMING]    Data Analysis & Visualization
-- [UPCOMING]    Machine Learning Fundamentals
-- [UPCOMING]    Applied AI/ML Projects
-```
+<p align="center">
+  <img src="assets/learning-progress.svg" width="100%" alt="AI/ML learning progress" />
+</p>
 
 > Enrolled in a full AI/ML developer institute program (~16–18 months), studying in parallel while applying for data analysis internships.
 
