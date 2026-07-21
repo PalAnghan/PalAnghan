@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Final-Year+BCA+Student;MERN+Stack+Developer;AI+%2F+Machine+Learning+Learner;Freelance+Developer+on+Fiverr;Open+to+Internships+%26+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=500&color=39FF14&background=0D1117FF&center=true&vCenter=true&width=800&height=140&lines=%24+whoami;pal-anghan;%24+cat+role.txt;MERN+Stack+Developer+%7C+AI%2FML+Learner;%24+status+--check;%E2%9C%93+Open+to+Work;%24+_" alt="terminal typing" />
 </p>
 
 <p align="center">
@@ -13,55 +13,49 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PalAnghan&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/PalAnghan?label=Followers&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=PalAnghan&label=Profile%20Views&color=39FF14&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/PalAnghan?label=Followers&style=for-the-badge&color=39FF14" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-39FF14?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="assets/pacman-loading.svg" width="100%" alt="pacman eating dots" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PalAnghan/PalAnghan/output/snake.svg" width="100%" alt="snake eating contribution graph" />
-</p>
+## 💻 `whoami`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=3&section=header" width="100%" />
-</p>
-
-## 🚀 About Me
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_Final_Year-BCA_Student-12151c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Role-MERN_Stack_Developer-1a2332?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_Location-Surat,_India-22283b?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/💼_Freelance-GenZ_Developer-2a2f4a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_Learning-AI_%2F_ML-33395c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📬_Status-Open_to_Work-3d4470?style=for-the-badge" />
-</p>
-
-I build full-stack web applications with the MERN stack and integrate AI into real, working products — not just tutorials. Right now I'm deep in an AI/ML developer program, moving from web development into data and machine learning while continuing to freelance and ship projects.
+```json
+{
+  "name": "Pal Anghan",
+  "role": "MERN Stack Developer",
+  "education": "BCA, Final Year — ITM SLS Baroda University (2023-2026)",
+  "location": "Surat, Gujarat, India",
+  "freelance": "GenZ Developer (Fiverr)",
+  "currentlyLearning": ["Python", "Pandas / NumPy", "Machine Learning"],
+  "stack": {
+    "frontend": ["React.js", "JavaScript", "TypeScript", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js", "FastAPI"],
+    "database": ["MongoDB"],
+    "ai": ["Python", "Gemini Vision API"],
+    "mobile": ["Flutter", "React Native"]
+  },
+  "openTo": ["Internships", "Entry-Level Roles", "Freelance Projects"]
+}
+```
 
 ---
 
-## 📖 My Journey
+## 📖 `git log --oneline my-journey`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=3" width="100%" />
+```bash
+2023  init: started BCA, wrote first "Hello World"
+2024  feat: learned React, Node.js, Express, MongoDB
+2025  feat: shipped UrbanNest — first deployed full-stack app
+2025  feat: went freelance — GenZ Developer on Fiverr
+2026  feat: built NutriVision — AI food analyzer (Gemini Vision)
+2026  feat: enrolled in AI/ML developer program
+now   status: final year, open to internships + full-time roles
+```
 
-**`2023`** — Started BCA at ITM SLS Baroda University. First lines of code, first "why isn't this working" nights.
-
-**`2024`** — Learned JavaScript, then React, Node.js, Express, and MongoDB — building small projects to actually understand the stack, not just copy it.
-
-**`2025`** — Shipped **UrbanNest**, a deployed hostel booking platform — my first project real users could actually open. Started freelancing independently as **GenZ Developer** on Fiverr.
-
-**`2026`** — Building AI-integrated products like **NutriVision** (Gemini Vision food analyzer). Enrolled in a structured AI/ML developer program, learning Python fundamentals and working toward data analysis and ML roles.
-
-**`Now`** — Final year of BCA, actively looking for an internship or first full-time role, while continuing to freelance and build in public.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=3" width="100%" />
+Started BCA in 2023 with zero coding background — just curiosity. Since then: taught myself the MERN stack from scratch, shipped a real deployed product, went independent as a freelancer, and started building AI-integrated tools instead of just following tutorials. Currently mid-transition from web dev into AI/ML, one Python script at a time.
 
 ---
 
@@ -71,34 +65,20 @@ I build full-stack web applications with the MERN stack and integrate AI into re
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,python,flutter,dart,git,github,figma,vscode,postman&theme=dark&perline=9" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=400&color=8B949E&center=true&vCenter=true&width=700&lines=React.js+%C2%B7+Node.js+%C2%B7+Express.js+%C2%B7+MongoDB;Python+%C2%B7+FastAPI+%C2%B7+Gemini+Vision+API;Flutter+%C2%B7+React+Native+(in+progress);Git+%C2%B7+GitHub+%C2%B7+Figma+%C2%B7+VS+Code+%C2%B7+Postman" />
-</p>
-
 ---
 
-## 🤖 Currently Learning — AI / Machine Learning
+## 🤖 `pip install ai-ml-skills`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/1_Python_Fundamentals-Done-238636?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/2_Loops_%26_Functions-Done-238636?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/3_Data_Handling_(Pandas_%2F_NumPy)-In_Progress-1f6feb?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/4_Data_Analysis_%26_Visualization-Upcoming-6e7681?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/5_Machine_Learning_Fundamentals-Upcoming-6e7681?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/6_Applied_AI_%2F_ML_Projects-Upcoming-6e7681?style=for-the-badge" />
-</p>
+```diff
++ [DONE]        Python Fundamentals
++ [DONE]        Loops & Functions
+~ [IN PROGRESS] Data Handling — Pandas / NumPy
+- [UPCOMING]    Data Analysis & Visualization
+- [UPCOMING]    Machine Learning Fundamentals
+- [UPCOMING]    Applied AI/ML Projects
+```
 
-<p align="center"><i>Enrolled in a full AI/ML developer institute program (~16–18 months), studying in parallel and applying for data analysis internships along the way.</i></p>
+> Enrolled in a full AI/ML developer institute program (~16–18 months), studying in parallel while applying for data analysis internships.
 
 ---
 
@@ -129,6 +109,22 @@ I build full-stack web applications with the MERN stack and integrate AI into re
 </table>
 
 <p align="center"><b>Other repos:</b> <code>job-tracker-mern</code> · <code>kawaii-marksheet-app</code> · <code>morning-buddy-pro</code> · <code>weather-app</code> · <code>clock.com</code> · <code>neet-practice-app</code> · <code>rudrabyte-frontend-internship-2025</code> · <code>AI-ML-Red-White-ExtraClass</code> · <code>AI-ML-RedandWhite</code> · <code>Python-Fundamental-Booster-Red-White</code> · <code>Logic-Box-Red-and-White-Python</code> · <code>C-Language</code></p>
+
+---
+
+## 🎮 Fun Zone
+
+*(These two actually move — GitHub screenshots can't capture that, but they animate live on the page.)*
+
+**Pac-Man, eating dots on a loop:**
+<p align="center">
+  <img src="assets/pacman-loading.svg" width="100%" alt="pacman eating dots" />
+</p>
+
+**A snake, eating my real contribution graph:**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PalAnghan/PalAnghan/output/snake-dark.svg" width="100%" alt="snake eating contribution graph" />
+</p>
 
 ---
 
