@@ -23,6 +23,13 @@
   <img src="https://img.shields.io/badge/BASED%20IN-Surat,_India-30363d?style=flat-square" />
 </p>
 
+
+<p align="center">
+  <a href="https://palanghan.github.io">
+    <img src="https://img.shields.io/badge/🚀_ENTER_MY_3D_PORTFOLIO-ff3cac?style=for-the-badge&labelColor=0d1117" alt="Enter my 3D portfolio" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=4&width=1000" />
 </p>
