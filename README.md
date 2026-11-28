@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/PalAnghan.png" width="120" style="border-radius:50%" alt="avatar" />
 </p>
@@ -6,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=700&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Pal+Anghan" alt="name" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=600&color=8B949E&background=00000000&center=true&vCenter=true&width=700&height=35&lines=MERN+Stack+Developer;AI+%2F+ML+Learner;Freelance+Developer" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=600&color=8B949E&background=00000000&center=true&vCenter=true&width=700&height=35&lines=Aspiring+Data+Analyst;SQL+%2B+Power+BI+%2B+Python+%2B+Excel;BI+Dashboards+%26+Data+Storytelling;Freelance+Web+Developer" alt="roles" />
 </p>
 
 <p align="center">
@@ -39,11 +40,48 @@
 
 ## 🚀 About Me
 
-> I'm a final-year BCA student (2023–2026) at ITM SLS Baroda University, based in Surat, India. I build full-stack web applications with the MERN stack and integrate AI into real, working products — not just tutorials.
+> I'm a final-year BCA student (2023–2026) at ITM SLS Baroda University, based in Surat, India. I turn raw data into clear dashboards and business answers using **SQL, Power BI, Python and Excel**.
 >
-> Alongside my degree, I freelance independently on Fiverr, taking on real client work and learning to ship on someone else's deadline, not just my own. Right now I'm in the middle of a transition: moving from pure web development into AI and machine learning, one Python script at a time.
+> I'm looking for an entry-level **Data Analyst / BI Analyst** role or internship. I also freelance on Fiverr as a MERN stack developer, which taught me to deliver on a client's deadline, not just my own.
+
+**Tools:** SQL (MySQL) · Power BI (DAX, Power Query) · Python (Pandas, NumPy, Matplotlib, Seaborn) · Excel · Tableau · Git
 
 <br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=3&width=1000" />
+</p>
+
+## 📊 Data Analytics Projects
+
+<table>
+<tr><th>Project</th><th>What I did</th><th>Stack</th></tr>
+<tr>
+<td><a href="https://github.com/PalAnghan/Swiggy-Restaurant-Analytics-PowerBI"><b>Swiggy Restaurant Analytics</b></a></td>
+<td>Power BI dashboard on ~9,000 restaurants across 9 Indian cities. Compared cities, cuisines, ratings, delivery time and pricing. Found Kolkata has the most restaurants (1,346), Chennai the highest average rating (3.78), and 56.56% of restaurants are mid-range.</td>
+<td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-1f6feb?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/PalAnghan/Retail-Sales-Analytics-PowerBI"><b>Retail Sales Analytics Dashboard</b></a></td>
+<td>Interactive dashboard on 541,909 transactions. Tracks total sales (10.67M), orders (26K), customers (4K) and returns (896.81K), with monthly trends, top 10 countries and products, and customer segments.</td>
+<td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-1f6feb?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/PalAnghan/Smart_Event_Management_System"><b>Smart Event Management System</b></a></td>
+<td>Relational MySQL database for events, venues, organizers, attendees, bookings and payments, with SQL reports using joins, subqueries, window functions and CASE expressions.</td>
+<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/PalAnghan/Global-Happiness-Analysis"><b>Global Happiness Analysis (2011–2025)</b></a></td>
+<td>Analyzed 2,116 records across 13 variables: correlation analysis, trends over time, 2025 country rankings and a focused India analysis.</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/PalAnghan/Retail_Sales_Data_Analyzer"><b>Retail Sales Data Analyzer</b></a></td>
+<td>Python tool that loads a CSV, checks for missing or invalid values, reports sales metrics by product and category, exports reports and draws charts.</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square"/></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=3&width=1000" />
@@ -52,12 +90,11 @@
 ## 📖 My Journey
 
 <table>
-<tr><td width="90"><b>2023</b></td><td>The Start — began BCA with zero coding background, just curiosity. First lines of code, first "why isn't this working" nights.</td></tr>
-<tr><td><b>2024</b></td><td>Foundations — learned JavaScript, then React, Node.js, Express, and MongoDB, building small projects to actually understand the stack.</td></tr>
-<tr><td><b>2025</b></td><td>Shipping Real Things — built and deployed <b>UrbanNest</b>, a full hostel booking platform. Competed in a 24-hour hackathon plus a few other coding events.</td></tr>
-<tr><td><b>2025</b></td><td>Going Independent — started freelancing on Fiverr as an independent developer, taking on real client work.</td></tr>
-<tr><td><b>2026</b></td><td>AI Era — built <b>NutriVision</b> (AI food analyzer, Gemini Vision API). Enrolled in a structured AI/ML developer program.</td></tr>
-<tr><td><b>Now</b></td><td>Final year of BCA, actively looking for an internship or first full-time role, while continuing to freelance and build in public.</td></tr>
+<tr><td width="90"><b>2023</b></td><td>The Start — began BCA with zero coding background, just curiosity.</td></tr>
+<tr><td><b>2024</b></td><td>Foundations — learned JavaScript, React, Node.js, Express and MongoDB.</td></tr>
+<tr><td><b>2025</b></td><td>Shipping Real Things — built and deployed <b>UrbanNest</b>, a full hostel booking platform, and started freelancing on Fiverr.</td></tr>
+<tr><td><b>2026</b></td><td>Data Era — built Power BI dashboards, SQL and Python analysis projects, and completed the Deloitte Australia Data Analytics Job Simulation. Built <b>NutriVision</b> (AI food analyzer) and enrolled in an AI/ML developer program.</td></tr>
+<tr><td><b>Now</b></td><td>Final year of BCA, actively looking for an entry-level data analyst role or internship.</td></tr>
 </table>
 
 <p align="center">
@@ -76,13 +113,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=3&width=1000" />
 </p>
 
-## 📌 Featured Projects
+## 💻 Web Development Projects
 
 <table>
 <tr><th>Project</th><th>Description</th><th>Stack</th></tr>
 <tr>
 <td><a href="https://github.com/PalAnghan/Nutrivision-AI-Food-Nutrition-Analyzer"><b>NutriVision</b></a></td>
-<td>AI food analyzer — analyzes food photos via the Gemini Vision API, returns calories, protein, health score, and age-based recommendations</td>
+<td>AI food analyzer — reads food photos with the Gemini Vision API and returns calories, protein, health score and age-based recommendations</td>
 <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></td>
 </tr>
 <tr>
@@ -95,14 +132,9 @@
 <td>Final-year project — a portal to manage internships and student project workflows</td>
 <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/PalAnghan/career-bot"><b>Career-Bot</b></a></td>
-<td>Career guidance / automation bot</td>
-<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
-</tr>
 </table>
 
-<p align="center"><sub><b>Other repos:</b> <code>job-tracker-mern</code> · <code>kawaii-marksheet-app</code> · <code>morning-buddy-pro</code> · <code>weather-app</code> · <code>clock.com</code> · <code>neet-practice-app</code> · <code>rudrabyte-frontend-internship-2025</code> · <code>AI-ML-Red-White-ExtraClass</code> · <code>AI-ML-RedandWhite</code> · <code>Python-Fundamental-Booster-Red-White</code> · <code>Logic-Box-Red-and-White-Python</code> · <code>C-Language</code></sub></p>
+<p align="center"><sub><b>Other repos:</b> <code>career-bot</code> · <code>job-tracker-mern</code> · <code>weather-app</code> · <code>Python-Fundamental-Booster-Red-White</code> · <code>Logic-Box-Red-and-White-Python</code> · <code>C-Language</code></sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=3&width=1000" />
